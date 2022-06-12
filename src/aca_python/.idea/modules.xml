@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../all_files/.idea/aca_python.iml" filepath="$PROJECT_DIR$/../all_files/.idea/aca_python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bank_account/.idea/aca_python.iml" filepath="$PROJECT_DIR$/../bank_account/.idea/aca_python.iml" />
     </modules>
   </component>
 </project>
